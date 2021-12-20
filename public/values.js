@@ -32,11 +32,10 @@ var animalTF          = ["skunk", ["cow", "bull", "mooing"], ["dog", "barking"],
 //=====================
 var weirdTF           = [  "You /t/ transform into a /extra/humantaur", "You /t/ grow $[1,\"an extra head\",\"two extra heads\"]",  
 			               "You instantly conjoin with the nearest person", "You instantly fuse with the nearest person",  "You /t/ transform into a /extra/humantaur with $[1,\"an extra head\",\"multiple arms\",\"a long equine tail\",\"multiple eyes\",\"feet-hands\",\"no arms\"]",
-			        
-			              "Your face and genitalia suddenly swap places", 
-						  "You /t/ fuse and transform with the nearest person into a /extra/humantaur", "You suddenly fuse to your crush's genitalia",
-						 "You suddenly swap bodies with the nearest person", "You fuse with the nearest person (catdog style)", "Your head fuses with the nearest person's body",  
-						  "You swap heads with the nearest person", "You /t/ transform into a pair of boobs and fuse with the nearest person", "You /t/ transform into a butt and fuse with the nearest person",  
+			              "Your face and genitalia suddenly swap places"]; 
+						  "You /t/ fuse and transform with the nearest person into a /extra/humantaur", "You suddenly fuse to your crush's genitalia"];
+						 "You suddenly swap bodies with the nearest person", "You fuse with the nearest person (catdog style)", "Your head fuses with the nearest person's body"];  
+						  "You swap heads with the nearest person", "You /t/ transform into a pair of boobs and fuse with the nearest person", "You /t/ transform into a butt and fuse with the nearest person"];  
 						 "You suddenly swap genitalia with the nearest person",   "Your crush suddenly fuses to your genitalia",];
 
 var weirdMTF          = ["You /t/ grow multiple /size/breasts", "Your buttcheeks /t/ transform into boobs", "You /t/ grow /size/breasts all over your body", "You /t/ grow /size/crotch-boobs", "You /t/ transform into a boobslug", "You /t/ transform into a boobsnake", "Your hands and feet /t/ transform into boobs", "Your mouth /t/ transforms into a pussy", "You /t/ transform into a /size/boob", "You /t/ grow /size/balloon boobs", "Your nipples /t/ transform into clits", "You /t/ grow /size/breasts along your milk lines", "You /t/ grow $[1,\"two\",\"four\",\"six\"] extra breasts", "You /t/ grow three /size/breasts full of ice-cream, one with strawberry, one with chocolate and one with vanilla",
